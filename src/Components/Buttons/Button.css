@@ -1,0 +1,22 @@
+.home-btn-one {
+    height: 40px;
+    width: 120px;
+    border-width: 0px;
+    outline: none;
+    background-color: #000000;
+    color: #ffffff;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.home-btn-two {
+    height: 40px;
+    width: 170px;
+    border-width: 0px;
+    outline: none;
+    background-color: transparent;
+    border: 2px solid #000000;
+    margin-left: 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
