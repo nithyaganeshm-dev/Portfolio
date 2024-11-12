@@ -7,11 +7,13 @@
     color: #ffffff;
     cursor: pointer;
     margin-top: 10px;
+    font-size: 12px;
 }
+
 
 .home-btn-two {
     height: 40px;
-    width: 170px;
+    width: 100px;
     border-width: 0px;
     outline: none;
     background-color: transparent;
@@ -19,4 +21,17 @@
     margin-left: 20px;
     cursor: pointer;
     margin-top: 10px;
+    font-size: 12px;
+}
+
+@media screen and (min-width: 768px) {
+    .home-btn-one {
+        font-size: 17px;
+        width: 140px;
+    }
+
+    .home-btn-two {
+        font-size: 17px;
+        width: 150px;
+    }
 }

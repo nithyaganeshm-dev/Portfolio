@@ -4,16 +4,17 @@
 }
 
 .home-content {
-    margin-top: 150px;
+    margin-top: 30px;
 }
 
 .home-content h1 {
     font-weight: bold;
-    font-size: 50px;
+    font-size: 29px;
 }
 
 .home-content p {
     margin-top: 20px;
+    font-size: 14px;
 }
 
 .home-image {
@@ -23,4 +24,18 @@
 .home-image img {
     width: 100%;
     border-radius: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .home-content {
+        margin-top: 100px;
+    }
+
+    .home-content h1 {
+        font-size: 50px;
+    }
+
+    .home-content p {
+        font-size: 20px;
+    }
 }
