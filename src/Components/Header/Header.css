@@ -1,0 +1,19 @@
+.bg-header {
+    text-align: center;
+}
+
+.header-title {
+    font-weight: bold;
+}
+
+.header-description {
+    font-weight: bolder;
+    font-size: 40px;
+    color: #000000;
+}
+
+@media screen and (min-width: 768px) {
+    .header-description {
+        margin: 0px 150px;
+    }
+}

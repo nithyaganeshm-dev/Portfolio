@@ -1,0 +1,26 @@
+.bg-skills {
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.skills-card {
+    margin-top: 50px;
+    padding: 25px;
+}
+
+.skill-title {
+    font-size: 22px;
+    font-weight: bold;
+    color: #000000;
+    margin-top: 10px;
+}
+
+.skill-description {
+    margin-top: 15px;
+    text-align: justify;
+}
+
+.list-element {
+    font-weight: bold;
+    margin-top: 7px;
+}
